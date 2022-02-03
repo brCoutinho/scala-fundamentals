@@ -1,1 +1,4 @@
-# scala-fundamentals
+# Scala fundamentals
+
+```
+Project to learn basic skills using Scala.
