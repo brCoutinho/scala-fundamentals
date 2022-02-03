@@ -2,8 +2,6 @@ package aulas
 
 object ScalaOOP extends App {
 
-  println("Hello world")
-
   var string : String = "Teste"
 
   string += " executado"
